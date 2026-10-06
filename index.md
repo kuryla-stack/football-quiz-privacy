@@ -26,4 +26,4 @@ Football Quiz does not knowingly collect personal information from anyone. It do
 
 Contact
 
-For privacy questions, contact the app owner at owner@yourdomain.example. Replace this placeholder with the owner's monitored email address before publishing this policy.
+For privacy questions, contact the app owner at irinazrzula7@gmail.com. Replace this placeholder with the owner's monitored email address before publishing this policy.
